@@ -1,2 +1,2 @@
 # newsgrid
-Udemy Newsgrid project
+Udemy Newsgrid project: push a sample website to GitHub and host it through Netlify
